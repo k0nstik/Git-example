@@ -3,4 +3,6 @@
     <text>My 3rd file</text>
     <text2>new file. Hello world.</text2>
     <commit>2</commit>
+    <text3>test</text3>
+    <commit>3</commit>
 </note>

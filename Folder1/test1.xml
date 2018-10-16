@@ -3,4 +3,6 @@
     <text>My first own project on Git :D</text>
     <text2>New text line</text2>
     <commit>1</commit>
+    <text3>test</text3>
+    <commit>2</commit>
 </note>
