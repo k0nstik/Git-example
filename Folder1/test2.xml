@@ -1,10 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <note>
     <text>My second file</text>
-    <text2>tra-la-la</text2>
-    <text3>Проверка русского языка</text3>
-    <commit>1</commit>
-    <text>test</text>
-    <commit>2</commit>
-    <text4>BrachFromOrigin text</text4>
 </note>
